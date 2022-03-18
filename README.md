@@ -7,14 +7,16 @@
 ## 實機影片
 ![demo](./Content/Asset/video.gif)
 
-[源視頻](https://www.youtube.com/watch?v=sZQgl2KLmo0)
+[流暢視頻](https://www.youtube.com/watch?v=sZQgl2KLmo0)
 
 ## 獲獎
 2019 - 台灣放視大賞VR遊戲創作組 金獎
 
 2019 - CGW VR Battle 數位內容多媒體組 第一名
 
-2019 - 台灣原創遊戲大賞校園組 入圍獎
+2019 - 台灣原創遊戲大賞校園組 決賽入圍獎
+
+![award](./Content/Asset/award.jpeg)
 
 ## 備註
 此倉庫只包含了藍圖代碼，不包含C++文件、美術和音效等部分。
