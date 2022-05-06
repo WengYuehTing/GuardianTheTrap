@@ -74,7 +74,7 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 
 # C++ files
-Source/*
+# Source/*
 
 # 美術
 *.uasset
@@ -99,5 +99,3 @@ Source/*
 !BS_*.uasset
 !*Pawn.uasset
 !*Actor.uasset
-!*.h
-!*.cpp
