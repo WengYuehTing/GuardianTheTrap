@@ -6,7 +6,7 @@
 ![language](https://img.shields.io/badge/language-C%2B%2B%20%7C%20Blueprint-orange)
 ![sdk](https://img.shields.io/badge/SDK-Steam%20VR%20%7C%20Unreal%20RPC-yellow)
 
-Guardian: The Trap is a VR Tower-Defense party game, with which you can play with friends through LAN. The winning objective is to prevent enemies destroying your tower within a specific duration. The players have to collection resources in the map and freely arranging traps on the enemies' route as effectively as possible, with your team brainstroming and collabration. There are three different maps for players representing easy, medium and hard level. Enjoy the game! 
+Guardian: The Trap is a VR Tower-Defense party game, with which you can play with friends through LAN. The winning objective is to prevent enemies destroying your tower within a specific duration. The players have to collect resources in the map and freely arranging traps on the enemies' route as effectively as possible, with your team brainstroming and collabration. There are three different maps for players representing easy, medium and hard level. Enjoy the game! 
 
 <!-- <img src="./Content/Asset/unreal.jpg" alt="drawing" width="400"/> -->
 
