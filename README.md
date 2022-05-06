@@ -1,15 +1,21 @@
 # 機關勇者 Guardian: The Trap
 ![logo](./Content/Asset/thumbnail.jpeg)
-機關勇者是一款雙人同樂的VR塔防遊戲，可以單獨挑戰也可以與朋友一同遊玩。玩家將扮演奇幻世界裡的勇者，在魔物前來進攻的路上自由佈置陷阱及障礙物，以此將魔物消滅、守衛家園！機關勇者使用UE4遊戲引擎進行開發，並接入SteamVR SDK和Unreal RPC實現VR和連線功能，可以在HTC Vive上遊玩。此遊戲是與雲林科技大學數位媒體設計系的同學合作，遊戲內的美術、模型、動畫、音效和特效等也均為團隊自行製作。
+![game](https://img.shields.io/badge/game-multiplayer%20TD-green)
+![vr](https://img.shields.io/badge/platform-HTC%20Vive%20VR-blue)
+![engine](https://img.shields.io/badge/engine-Unreal%20Engine%204-red)
+![language](https://img.shields.io/badge/language-C%2B%2B%20%7C%20Blueprint-orange)
+![sdk](https://img.shields.io/badge/SDK-Steam%20VR%20%7C%20Unreal%20RPC-yellow)
 
-<img src="./Content/Asset/unreal.jpg" alt="drawing" width="400"/>
+Guardian: The Trap is a VR Tower-Defense party game, with which you can play with friends through LAN. The winning objective is to prevent enemies destroying your tower within a specific duration. The players have to collection resources in the map and freely arranging traps on the enemies' route as effectively as possible, with your team brainstroming and collabration. There are three different maps for players representing easy, medium and hard level. Enjoy the game! 
 
-## 實機影片
+<!-- <img src="./Content/Asset/unreal.jpg" alt="drawing" width="400"/> -->
+
+## Video Demo
 ![demo](./Content/Asset/video.gif)
 
-[流暢視頻](https://www.youtube.com/watch?v=sZQgl2KLmo0)
+[Youtube Link](https://www.youtube.com/watch?v=sZQgl2KLmo0)
 
-## 獲獎
+## Awards
 2019 - 台灣放視大賞VR遊戲創作組 金獎
 
 2019 - CGW VR Battle 數位內容多媒體組 第一名
@@ -18,6 +24,8 @@
 
 ![award](./Content/Asset/award.jpeg)
 
-## 備註
-此倉庫只包含了藍圖代碼，把C++文件、美術和音效等部分排除了，項目無法編譯是正常的。
+## Collaboration
+This game was collaborated with students in Department of Digital Media Design, Yuntech. All of the artistic elements including models, animations, materials, and audios were also made by ourselves. 
 
+## Note
+This repository excluded the materials, textures, models, animations, and audio files, containing only blueprint scripts and c++ files I made,  so it supposed to have a lot of complier errors about assets missing.
