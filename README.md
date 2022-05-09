@@ -6,7 +6,7 @@
 ![language](https://img.shields.io/badge/language-C%2B%2B%20%7C%20Blueprint-orange)
 ![sdk](https://img.shields.io/badge/SDK-Steam%20VR%20%7C%20Unreal%20RPC-yellow)
 
-Guardian: The Trap is a VR Tower-Defense party game, with which you can play with friends through LAN. The winning goal is to prevent enemies from destroying the tower within a specific duration. The players have to collect resources in the map and freely arrange traps with various physical features on the enemies' route as quickly as possible. There are three different maps for players representing easy, medium, and hard levels. Enjoy the game!
+Guardian: The Trap is a VR Tower-Defense party game, with which you can play with friends through LAN. The winning goal is to prevent enemies from destroying the tower within a specific duration. The players have to collect resources in the map and place traps with various physical features on the enemies' route as quickly as possible. There are three maps for players representing easy, medium, and hard levels. Enjoy the game!
 
 <!-- <img src="./Content/Asset/unreal.jpg" alt="drawing" width="400"/> -->
 
@@ -25,8 +25,8 @@ Guardian: The Trap is a VR Tower-Defense party game, with which you can play wit
 ![award](./Content/Asset/award.jpeg)
 
 ## Collaboration
-The game was a collaboration with students in the Department of Digital Media Design, Yuntech. All of the artistic elements, including models, animations, materials, and audio files, were also made by ourselves.
+The game was in close collaboration with students of Department of Digital Media Design, Yuntech. Our team contained five people. All of the elements in this game, including code, models, animations, materials, and audio files, were also made by ourselves.
 
 ## Note
-This repository excluded the materials, textures, models, animations, and audio files, containing only blueprint scripts and c++ files I made,  so it is supposed to have many compiler errors about assets missing.
+This repository contains only blueprint scripts and c++ files I made, excluding the materials, textures, models and so on. It is supposed to have many compiler errors about assets missing.
 
