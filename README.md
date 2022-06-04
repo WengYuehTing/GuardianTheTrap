@@ -18,7 +18,7 @@ Guardian: The Trap is a VR Tower-Defense party game, with which you can play wit
 ## Awards
 2019 - 台灣放視大賞VR遊戲創作組 金獎
 
-2019 - CGW VR Battle 數位內容多媒體組 第一名
+2019 - CGW VR Battle 數位內容多媒體組 冠軍
 
 2019 - 台灣原創遊戲大賞校園組 決賽入圍獎
 
